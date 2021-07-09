@@ -1,0 +1,58 @@
+COMANDOS JAVASCRIPT:
+
+Evento de clique: element.addEventListener ()
+
+.divider
+
+O que é toggle?
+
+O que é grid?
+
+O que é rem?
+
+O que é gap?
+
+O que é border-radius?
+
+O que é border-bottom?
+
+i -> para ícone
+
+O que é display block?
+
+
+AAAA EU ACHEI UM ERRO NO CÓDIGO
+
+COMO FAZER ROLAGEM SUAVE?
+
+O que é span?
+
+O que é place content?
+
+
+O que é const, querySelector
+offsetHeight
+
+O QUE É <cite>
+
+<blockquote>
+
+
+SWIPER JS.COM
+
+new -> criar objeto no JS
+
+
+O QUE É O GRID????
+
+SCROLLREVEAL JS -> ANIMAÇÃO QUANDO ROLAR A PÁGINA
+
+
+TENTA SE EXPLICAR DEV!
+
+Media Queries
+
+GAP AND DISPLAY FLEX
+
+
+
